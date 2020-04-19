@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#4E4B30</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="TextLabel" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">#FFF</item>
+        <item name="android:textSize">40sp</item>
+        <item name="colorAccent">#FFF</item>
+        <item name="colorControlNormal">#FFF</item>
+    </style>
+
+    <style name="TextLabelHint">
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">13sp</item>
+        <item name="backgroundTint">#FFF</item>
+    </style>
+
+</resources>

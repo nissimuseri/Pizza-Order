@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Pizza Order</string>
+    <string name="pizza_size">Please choose the size you want:</string>
+    <string name="small_size">Small - 10$</string>
+    <string name="medium_size">Medium - 20$</string>
+    <string name="large_size">Large - 30$</string>
+    <string name="pizza_extras">Please choose your extras (1$ each) :</string>
+    <string name="extra_cheese">Extra Cheese</string>
+    <string name="extra_bulgarian_cheese">Bulgarian Cheese</string>
+    <string name="extra_green_olives">Green Olives</string>
+    <string name="extra_black_olives">Black Olives</string>
+    <string name="extra_onions">Onions</string>
+    <string name="extra_mushrooms">Mushrooms</string>
+    <string name="extra_tomatos">Tomatos</string>
+    <string name="extra_corn">Corn</string>
+    <string-array name="arrange_extras">
+        <item>@string/full_arrange</item>
+        <item>@string/left_side_arrange</item>
+        <item>@string/right_side_arrange</item>
+    </string-array>
+    <string name="full_arrange">Full tray</string>
+    <string name="right_side_arrange">Right Side</string>
+    <string name="left_side_arrange">Left Side</string>
+    <string name="contact_info">Please fill the required info fields:</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="address_hint">Address</string>
+    <string name="date_time">Please select date and time:</string>
+    <string name="select_date_btn">Select a date</string>
+    <string name="select_time_btn">Select a time</string>
+    <string name="current_time_hint">You can\'t order to the past</string>
+    <string name="sause_number">How many pizza sause (1$ each) ?</string>
+    <string name="sause_counter">Sause pieces:</string>
+    <string name="cost_sum">Total cost:</string>
+    <string name="place_order">Place order</string>
+    <string name="currency">$</string>
+    <string name="choose_size_toast">Please choose pizza size</string>
+    <string name="filled_name_toast">Please fill your name</string>
+    <string name="choose_date_toast">Please choose date</string>
+    <string name="choose_time_toast">Please choose proper time</string>
+    <string name="filled_address_toast">Please fill your address</string>
+    <string name="filled_phone_toast">Please fill your phone number</string>
+    <string name="splash_text">Probably the best pizza in the world</string>
+    <string name="success_message">The pizza is on the way !</string>
+    <string name="small_size_message">Small size</string>
+    <string name="medium_size_message">Medium size</string>
+    <string name="large_size_message">Large size</string>
+    <string name="total_message">Total order:</string>
+    <string name="extras_message">Extras</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="confirm_btn">Confirm</string>
+    <string name="finish_btn">Finish</string>
+    <string name="sause_message">Sause pieces</string>
+    <string name="total_cost_message">with total cost of:</string>
+    <string name="blink_line">Due to Coronavirus - Free shipping !</string>
+</resources>
