@@ -1,5 +1,6 @@
 # Pizza-Order
-###### Android pizza ordering app - Client side
+###### Android pizza ordering app - Client side.
+Support in English and Hebrew languages.
 
 ***Screenshots:***
 
