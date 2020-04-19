@@ -1,7 +1,7 @@
 # Pizza-Order
 ## Android pizza ordering app - Client side
 
-###ScreenShots:
+***Screenshots:***
 
 ![image](https://user-images.githubusercontent.com/55482825/79695812-96c36000-8281-11ea-9c49-606f326e24ee.JPG)
 ![image](https://user-images.githubusercontent.com/55482825/79696029-d0e13180-8282-11ea-9070-72b293fb98cc.jpg)
